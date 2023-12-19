@@ -28,10 +28,12 @@ body{
 
 .info-title{
     font-weight: 700;
+    color: #212121;
 }
 
 .info-text{
     font-weight: 400;
+    color: #757575;
 }
 
 .activity-title{
@@ -44,34 +46,42 @@ body{
 
 .figure1-name{
     font-weight: 500;
+    color: #212121;
 }
 
 .figure1-text{
     font-weight: 400;
+    color: #757575;
 }
 
 .figure2-name{
     font-weight: 500;
+    color: #212121;
 }
 
 .figure2-text{
     font-weight: 400;
+    color: #757575;
 }
 
 .figure3-name{
     font-weight: 500;
+    color: #212121;
 }
 
 .figure3-text{
     font-weight: 400;
+    color: #757575;
 }
 
 .figure4-name{
     font-weight: 500;
+    color: #212121;
 }
 
 .figure4-text{
     font-weight: 400;
+    color: #757575;
 }
 
 .footer{
@@ -87,3 +97,5 @@ body{
     font-weight: 400;
     color: rgba(255, 255, 255, 0.6);
 }
+
+
