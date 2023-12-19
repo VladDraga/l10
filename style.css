@@ -1,0 +1,89 @@
+*{
+
+}
+
+:root{
+    --color-text-black: #2F303A;
+    --color-acent: #2196f3;
+    --color-whitegray: #757575;
+    --color-black: #212121;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+    
+}
+
+.navigation-item{
+    font-weight: 500;
+}
+
+.div-text{
+    font-weight: 900;
+}
+
+.div-button{
+    font-weight: 700;
+}
+
+.info-title{
+    font-weight: 700;
+}
+
+.info-text{
+    font-weight: 400;
+}
+
+.activity-title{
+    font-weight: 700;
+}
+
+.team-title{
+    font-weight: 700;
+}
+
+.figure1-name{
+    font-weight: 500;
+}
+
+.figure1-text{
+    font-weight: 400;
+}
+
+.figure2-name{
+    font-weight: 500;
+}
+
+.figure2-text{
+    font-weight: 400;
+}
+
+.figure3-name{
+    font-weight: 500;
+}
+
+.figure3-text{
+    font-weight: 400;
+}
+
+.figure4-name{
+    font-weight: 500;
+}
+
+.figure4-text{
+    font-weight: 400;
+}
+
+.footer{
+    background-color: #2F303A;
+}
+
+.footer-a{
+    color: white;
+    font-weight: 400;
+}
+
+.footer-ab{
+    font-weight: 400;
+    color: rgba(255, 255, 255, 0.6);
+}
