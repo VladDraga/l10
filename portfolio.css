@@ -16,16 +16,20 @@ body{
 
 .navigation-item{
     font-weight: 500;
+    list-style: none;
+    line-height: 135%;
 }
 
 .name{
     font-weight: 700;
     color: #212121;
+    line-height: 100%;
 }
 
 .text{
     font-weight: 400;
     color: #757575;
+    line-height: 100%;
 }
 
 .footer{

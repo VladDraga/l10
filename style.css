@@ -16,6 +16,8 @@ body{
 
 .navigation-list{
     font-weight: 500;
+    list-style: none;
+    line-height: 135%;
 }
 
 .div-text{
@@ -29,11 +31,13 @@ body{
 .info-title{
     font-weight: 700;
     color: #212121;
+    line-height: 120%;
 }
 
 .info-text{
     font-weight: 400;
     color: #757575;
+    line-height: 120%;
 }
 
 .activity-title{
@@ -52,6 +56,7 @@ body{
 .figure1-text{
     font-weight: 400;
     color: #757575;
+    line-height: 10%;
 }
 
 .figure2-name{
@@ -62,6 +67,7 @@ body{
 .figure2-text{
     font-weight: 400;
     color: #757575;
+    line-height: 10%;
 }
 
 .figure3-name{
@@ -72,6 +78,7 @@ body{
 .figure3-text{
     font-weight: 400;
     color: #757575;
+    line-height: 10%;
 }
 
 .figure4-name{
@@ -82,6 +89,7 @@ body{
 .figure4-text{
     font-weight: 400;
     color: #757575;
+    line-height: 10%;
 }
 
 .footer{
@@ -91,11 +99,13 @@ body{
 .footer-a{
     color: white;
     font-weight: 400;
+    line-height: 200%;
 }
 
 .footer-ab{
     font-weight: 400;
     color: rgba(255, 255, 255, 0.6);
+    line-height: 80%;
 }
 
 
